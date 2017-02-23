@@ -1,5 +1,5 @@
 # Telegram-Flatabulous
-A Telgram Desktop theme based on [Flatabulous](https://github.com/anmoljagetia/Flatabulous)
+A Telgram Desktsop theme based on [Flatabulous](https://github.com/anmoljagetia/Flatabulous)
 
 Get wallpaper [here](https://t.me/wallpapersfull/162)
 

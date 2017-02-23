@@ -12,31 +12,32 @@
 telegram_base_color: #419FD9;
 base_color: #333333;
 bg_color: #222222;
-text_color: #eeeeff;
+text_color: #EEEEFF;
+bold_text_color: #F2F2FF;
 fg_color: #dcdcdc;
 selected_bg_color: #7A7D81;
-selected_fg_color: #f9f9f9;
+selected_fg_color: #F9F9F9;
 tooltip_bg_color: #222222;
-tooltip_fg_color: #dedede;
+tooltip_fg_color: #DEDEDE;
 
 /* shadow effects */
 light_shadow: #000;
 dark_shadow: #000;
 
 /* misc colors */
-link_color: #fc6f5d;
-success_color: #53a93f;
-error_color: #cc0000;
+link_color: #FC6F5D;
+success_color: #53A93F;
+error_color: #CC0000;
 
 /* widget colors */
 menubar_bg_color: #222222;
-menubar_fg_color: #dcdcdc;
+menubar_fg_color: #DCDCDC;
 toolbar_bg_color: #222222;
-toolbar_fg_color: #dcdcdc;
+toolbar_fg_color: #DCDCDC;
 menu_bg_color: #222222;
-menu_fg_color: #dcdcdc;
+menu_fg_color: #DCDCDC;
 panel_bg_color: #222222;
-panel_fg_color: #dcdcdc;
+panel_fg_color: #DCDCDC;
 midia: #272822;
 icons: fg_color;
 iconsOver: telegram_base_color;
@@ -44,7 +45,7 @@ search: #2C2C2C;
 
 /* osd */
 osd_base: #222222;
-osd_fg: #dcdcdc;
+osd_fg: #DCDCDC;
 
 /* window manager colors */
 wm_bg: #222222;
@@ -60,8 +61,8 @@ windowBgRipple: telegram_base_color;
 windowFgOver: windowFg;
 windowSubTextFg: text_color;
 windowSubTextFgOver: text_color;
-windowBoldFg: text_color;
-windowBoldFgOver: text_color;
+windowBoldFg: bold_text_color;
+windowBoldFgOver: bold_text_color;
 windowBgActive: telegram_base_color;
 windowFgActive: #ffffff;
 windowActiveTextFg: text_color;
@@ -371,7 +372,7 @@ notificationsBoxMonitorFg: windowFg;
 notificationsBoxScreenBg: dialogsBgActive;
 notificationSampleUserpicFg: windowBgActive;
 notificationSampleCloseFg: #d7d7d7;
-notificationSampleTextFg: #d7d7d7;
+notificationSampleTextFg: text_color;
 notificationSampleNameFg: #939393;
 mainMenuBg: windowBg;
 mainMenuCoverBg: dialogsBgActive;
